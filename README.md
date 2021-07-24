@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rahulas7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Rahul AS
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning devops tools
 - 💞️ I’m looking to collaborate on ...
 ### ⚙️ Connect with Me
 <p align="center">
