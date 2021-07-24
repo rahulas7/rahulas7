@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahul AS
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning devops tools
-- 💞️ I’m looking to collaborate on ...
 ### ⚙️ Connect with Me
 <p align="center">
 <a href="mailto:rahulsreenivas7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
