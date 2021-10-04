@@ -1,8 +1,13 @@
+## Hi Geeks, 👋
+
+##### Welcome to my GitHub
+
+```
 👋 Hi, I’m Rahul AS
 
-❄️ Working as Site Reliablity Enginner
+❄️ Working as TecOps Engineer
 
-❄️ Cloud platform: 
+❄️ Cloud platform:
         - AWS Cloud
 ❄️ Operating Systems:
         - RedHat Linux Release
@@ -19,4 +24,11 @@
 ❄️ Monitoring Tools:
         - AWS CloudWatch
         - Zabbix
-    
+
+```
+
+### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:rahulsreenivas7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rahul-as/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
