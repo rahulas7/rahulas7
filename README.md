@@ -5,7 +5,7 @@
 ```
 👋 Hi, I’m Rahul AS
 
-❄️ Working as TecOps Engineer
+❄️ Working as Site Reliability Engineer
 
 ❄️ Cloud platform:
         - AWS Cloud
